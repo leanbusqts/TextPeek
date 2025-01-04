@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TextPeek</string>
+    <string name="title_activity_file_content">FileContentActivity</string>
 </resources>
